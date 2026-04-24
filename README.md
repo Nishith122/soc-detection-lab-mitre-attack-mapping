@@ -201,7 +201,7 @@ Documentation:  Incident reports, gap analysis, detection mapping
 
 - Splunk Core Certified User
 - Google Cybersecurity Certificate
-- TryHackMe SOC Level 1 — [Profile Link]
+- TryHackMe SOC Level 1 — [tryhackme.com/p/rnishith721]
 - Cisco Introduction to Cybersecurity
 
 ---
